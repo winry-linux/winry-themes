@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "joshua@winrylinux.org",
+                "Name": "Winry Linux"
+            }
+        ],
+        "Category": "",
+        "Description": "Look and feel theme for Winry Linux",
+        "Id": "org.kde.winry.desktop",
+        "License": "GPLv3",
+        "Name": "Winry",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "2.0",
+        "Website": "https://winrylinux.org"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-KDE-ParentApp": "",
+    "X-Plasma-MainScript": "defaults"
+}

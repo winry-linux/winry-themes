@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=Winry Linux look and feel
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Winry
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Joshua Strot
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=joshua@winrylinux.org
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=org.kde.winry.desktop
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/winry-linux/winry-themes
+X-KDE-fallbackPackage=org.kde.winry.desktop
+X-Plasma-MainScript=defaults
