@@ -20,4 +20,4 @@ LayoutName=org.kde.breeze.desktop
 LayoutName=org.kde.breeze.desktop
 
 [kwinrc][WindowDecoration]
-library=PapirusDark
+library=org.kde.breeze
